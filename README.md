@@ -19,6 +19,9 @@ Core components include:
 ## ⚙️ Quick Start
 ```bash
 git clone https://github.com/coherence-labs/conscious-coherence-simulations.git
+
 cd conscious-coherence-simulations
-pip install -r requirements.txt
-python run_simulation.py
+
+pip install -r requirements.txt '''
+
+python simulate.py
